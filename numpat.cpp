@@ -8,11 +8,11 @@ int main(){
         }
         for(int z = n; z>i; z--){
             cout<<" ";
-        }
-        for(int y= n; y>i; y--){
             cout<<" ";
         }
-        
+        // for(int y= n; y>i; y--){
+        //     cout<<" ";
+        // }
         for(int k = i; k>=1; k--){
             cout<<k;
         }
